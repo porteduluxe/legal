@@ -3,7 +3,7 @@
 **Effective date:** May 14, 2026
 **Last updated:** May 14, 2026
 
-This privacy policy describes how Porte Du Luxe LLC ("we", "us", "our") collects, uses, and protects information when you use the **My Grocery List** Android app (the "App").
+This privacy policy describes how Porte Du Luxe LLC ("we", "us", "our") collects, uses, and protects information when you use the **Paniero** Android app (the "App").
 
 ## 1. Information we collect
 
