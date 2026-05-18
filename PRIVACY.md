@@ -10,8 +10,8 @@ This privacy policy describes how Porte Du Luxe LLC ("we", "us", "our") collects
 We only collect information you provide directly through the App:
 
 - **Account information.** When you create an account, we collect your email address and a password. Passwords are stored only as cryptographic hashes by Firebase Authentication; we cannot read them.
-- **Grocery content.** The names of the stores and grocery items you create in the App.
-- **Photos.** If you attach a photo to a grocery item, the photo is scaled and stored as part of that item.
+- **Shopping content.** The names of the stores and items you create in the App.
+- **Photos.** If you attach a photo to an item, the photo is scaled and stored as part of that item.
 
 We do **not** collect:
 
@@ -36,7 +36,7 @@ When you tap the microphone button, the App hands the request off to Android's b
 We use the information you provide solely to:
 
 - Authenticate you when you sign in.
-- Store and synchronize your grocery lists across devices signed into your account.
+- Store and synchronize your shopping lists across devices signed into your account.
 - Display your stores, items, and photos back to you.
 
 We do **not** use your information for advertising, profiling, behavioural analytics, or any other purpose. We do not sell, rent, or trade your information.

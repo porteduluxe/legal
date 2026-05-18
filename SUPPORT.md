@@ -1,6 +1,6 @@
 # Paniero — Support
 
-**Paniero** is a grocery list app by Porte Du Luxe LLC. This page is the official support resource for the Paniero **iOS** and **Android** apps.
+**Paniero** is a shopping list app by Porte Du Luxe LLC. This page is the official support resource for the Paniero **iOS** and **Android** apps.
 
 ## Contact us
 

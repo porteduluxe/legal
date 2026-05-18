@@ -9,8 +9,8 @@ This privacy policy describes how Porte Du Luxe LLC ("we", "us", "our") collects
 We only collect information you provide directly through the App:
 
 - **Account information.** When you create an account, we collect your email address and a password. Passwords are stored only as cryptographic hashes by Firebase Authentication; we cannot read them.
-- **Grocery content.** The names of the stores and grocery items you create in the App.
-- **Photos.** If you attach a photo to a grocery item, the photo is scaled and stored as part of that item.
+- **Shopping content.** The names of the stores and items you create in the App.
+- **Photos.** If you attach a photo to an item, the photo is scaled and stored as part of that item.
 
 We do **not** collect:
 
@@ -33,7 +33,7 @@ The App does not request your location, contacts, calendar, reminders, Bluetooth
 
 When you tap the microphone button, the App hands the request off to Apple's Speech Recognition framework (`SFSpeechRecognizer`), which is part of iOS. That framework captures the audio and returns text to the App. Depending on your device and language, this transcription happens either entirely on-device or by sending the audio to Apple's servers for processing.
 
-- The audio itself is **never received, retained, or transmitted by the App** — only the transcribed text is returned to us, and we only keep the resulting grocery item names you choose to save.
+- The audio itself is **never received, retained, or transmitted by the App** — only the transcribed text is returned to us, and we only keep the resulting item names you choose to save.
 - How Apple handles any audio sent to its servers for transcription is governed by the Apple Privacy Policy at <https://www.apple.com/legal/privacy/>.
 
 ## 3. How we use your information
@@ -41,7 +41,7 @@ When you tap the microphone button, the App hands the request off to Apple's Spe
 We use the information you provide solely to:
 
 - Authenticate you when you sign in.
-- Store and synchronize your grocery lists across devices signed into your account, including any Android devices running the Android version of Paniero.
+- Store and synchronize your shopping lists across devices signed into your account, including any Android devices running the Android version of Paniero.
 - Display your stores, items, and photos back to you.
 
 We do **not** use your information for advertising, profiling, behavioural analytics, or any other purpose. We do not sell, rent, or trade your information.
